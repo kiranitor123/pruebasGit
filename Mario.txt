@@ -2,7 +2,7 @@
 2.
 3.
 4.
-5.
+5.dfghjk
 6.
 7.
 8.
@@ -25,4 +25,3 @@ console.log();
 
 Aqui paso Robert :v
 console.log();
-<<<<<<< HEAD
