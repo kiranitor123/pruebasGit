@@ -8,7 +8,7 @@
 8.
 9.
 10.
-hola mundo 1.0
+hola mundo 2.0
 Este soy Angel
 console.log();
 no toquen XD
