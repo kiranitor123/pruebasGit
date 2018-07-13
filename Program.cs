@@ -31,7 +31,7 @@ namespace pruebasGit
                       new Persona{Nombre="Wilson",Apellido="PC"},
                        new Persona {Nombre="GALLO",Apellido="gALLINA"}
              };
-         return new List<Persona>();
+         return Lista;
         }
     }
 }
