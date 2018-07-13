@@ -1,4 +1,4 @@
-1.
+1.hola mundo
 2.
 3.
 4.
@@ -8,5 +8,14 @@
 8.
 9.
 10.
+<<<<<<< HEAD
 Este soy Angel
 console.log();
+=======
+<<<<<<< HEAD
+
+no toquen XD
+=======
+console.log();
+>>>>>>> fc09dec3b1135972d0f147831786550b1dbf02e6
+>>>>>>> 56525155a6b61daf79a74707fadf5f32885b87e7
