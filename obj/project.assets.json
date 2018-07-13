@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Wilver Hidalgo Barja\\.nuget\\packages\\": {},
+    "C:\\Users\\Cbba\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\gamboa2\\pruebasGit\\pruebasGit.csproj",
+      "projectUniqueName": "C:\\Users\\Cbba\\Desktop\\gitrepositorio\\ExampleRolo\\pruebasGit\\pruebasGit.csproj",
       "projectName": "pruebasGit",
-      "projectPath": "F:\\gamboa2\\pruebasGit\\pruebasGit.csproj",
-      "packagesPath": "C:\\Users\\Wilver Hidalgo Barja\\.nuget\\packages\\",
-      "outputPath": "F:\\gamboa2\\pruebasGit\\obj\\",
+      "projectPath": "C:\\Users\\Cbba\\Desktop\\gitrepositorio\\ExampleRolo\\pruebasGit\\pruebasGit.csproj",
+      "packagesPath": "C:\\Users\\Cbba\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cbba\\Desktop\\gitrepositorio\\ExampleRolo\\pruebasGit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Wilver Hidalgo Barja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Cbba\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
