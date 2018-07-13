@@ -28,8 +28,10 @@ namespace pruebasGit
         public static List<Persona> Data(){
             List<Persona> Lista;
              Lista= new List<Persona>{
-                      new Persona{Nombre="Wilson",Apellido="PC"},
-                       new Persona {Nombre="GALLO",Apellido="gALLINA"}
+                    new Persona{Nombre="Wilson",Apellido="PC"},
+                    new Persona {Nombre="GALLO",Apellido="gALLINA"}
+                    new Persona {Nombre="Bruce",Apellido="Wayne"}
+                    new Persona {Nombre="Elver",Apellido="Galarga"}
              };
          return Lista;
         }
