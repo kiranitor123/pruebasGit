@@ -1,11 +1,7 @@
 ﻿using System;
-<<<<<<< HEAD
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-=======
-using Linq;
->>>>>>> f782738d54a42707c30231f0474fe97a027f7fc4
 
 namespace pruebasGit
 {
@@ -20,6 +16,10 @@ namespace pruebasGit
             var suma=1;
             for(int i=0;i<10;i++){
                 Console.WriteLine(suma+"+"+i+"="+(suma+i) );
+            }
+            foreach(var per in Data()){
+                Console.WriteLine($"{per.Nombre} {per.Apellido}");
+
             }
             
         }
