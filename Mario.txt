@@ -8,15 +8,14 @@
 8.
 9.
 10.
-<<<<<<< HEAD
+
 Este soy Angel
 console.log();
-=======
-<<<<<<< HEAD
+
 
 no toquen XD
 console.log();
-<<<<<<< HEAD
+
 
 Aqui paso Robert :v
 console.log();
