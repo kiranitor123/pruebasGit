@@ -9,7 +9,6 @@
 9.
 10.
 
-<<<<<<< HEAD
 hola mundo 1.0
 
 <<<<<<< HEAD
