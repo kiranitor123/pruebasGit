@@ -1,4 +1,4 @@
-1.hola mundo
+1.
 2.
 3.
 4.
@@ -8,14 +8,10 @@
 8.
 9.
 10.
-
+hola mundo 2.0
 Este soy Angel
 console.log();
-
-
 no toquen XD
 console.log();
-
-
 Aqui paso Robert :v
 console.log();
