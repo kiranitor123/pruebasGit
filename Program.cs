@@ -29,9 +29,9 @@ namespace pruebasGit
             List<Persona> Lista;
              Lista= new List<Persona>{
                     new Persona{Nombre="Wilson",Apellido="PC"},
-                    new Persona {Nombre="GALLO",Apellido="gALLINA"}
-                    new Persona {Nombre="Bruce",Apellido="Wayne"}
-                    new Persona {Nombre="Elver",Apellido="Galarga"}
+                    new Persona {Nombre="GALLO",Apellido="gALLINA"},
+                    new Persona {Nombre="Bruce",Apellido="Wayne"},
+                    new Persona {Nombre="Elver",Apellido="Galarga"},
              };
          return Lista;
         }
