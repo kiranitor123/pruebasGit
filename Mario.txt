@@ -8,5 +8,9 @@
 8.
 9.
 10.
+<<<<<<< HEAD
 
 no toquen XD
+=======
+console.log();
+>>>>>>> fc09dec3b1135972d0f147831786550b1dbf02e6
