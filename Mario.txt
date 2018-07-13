@@ -8,10 +8,6 @@
 8.
 9.
 10.
-<<<<<<< HEAD
-=======
-
->>>>>>> 5fae383ccfdf020aabcf77dbdea1fcc5d3627499
 hola mundo 1.0
 Este soy Angel
 console.log();
