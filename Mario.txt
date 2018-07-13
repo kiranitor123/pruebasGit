@@ -17,7 +17,4 @@ console.log();
 no toquen XD
 console.log();
 <<<<<<< HEAD
->>>>>>> fc09dec3b1135972d0f147831786550b1dbf02e6
->>>>>>> 56525155a6b61daf79a74707fadf5f32885b87e7
-=======
->>>>>>> fb8329e39f9661e014e9185e6aecbcd24ba588ea
+
