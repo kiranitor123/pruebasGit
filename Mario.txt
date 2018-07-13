@@ -11,9 +11,6 @@
 
 hola mundo 1.0
 
-<<<<<<< HEAD
-=======
->>>>>>> 3ec140a8d27dc4a55494b8d2d62c280e3c696b04
 Este soy Angel
 console.log();
 
